@@ -1,0 +1,19 @@
+{
+  "name": "ethereum-parse-keystore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ethereum-parse-keystore-exec": "bin/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "preferGlobal": "true",
+  "dependencies": {
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
